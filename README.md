@@ -1,4 +1,5 @@
-<h1 align="center">Hey there, it's Jessica Binadi 👋</h1>
+<h1 align="center">Hey there, 
+  It's Jessica Binadi 👋</h1>
 
 <p align="center">
   Computer Engineering • Software • Design
@@ -27,7 +28,7 @@
 
 ### Beyond the Code
 
-I like the space where **technology meets creativity** — whether that's building something,
+I like the space where **technology meets creativity**,whether that's building something,
 designing an interface, writing, or turning a random idea into something real.
 
 When I'm not somewhere between code and design, you'll probably find me with
