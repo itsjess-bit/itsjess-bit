@@ -7,10 +7,9 @@
 
 ---
 
-### A Little About Me
+### About Me
 
 - 🔭 **I'm currently working on:** Turning ideas into projects and building a portfolio I'm proud of.
-- 🌱 **I'm currently exploring:** Software development, UI/UX, and the different sides of technology.
 - 💬 **Ask me about:** Tech, design, creative ideas, or whatever I'm building lately.
 - 📫 **How to reach me:** [jessicabinadi@gmail.com](mailto:jessicabinadi@gmail.com)
 - 😄 **Pronouns:** She/Her
