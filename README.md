@@ -35,14 +35,6 @@ When I'm not somewhere between code and design, you'll probably find me with
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsjess-bit&show_icons=true&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <i>still learning. still building. always curious.</i>
 </p>
